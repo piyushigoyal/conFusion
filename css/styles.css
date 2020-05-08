@@ -34,3 +34,13 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+#btn-pi{
+    background: #FFA500;
+    color: black;
+}
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
